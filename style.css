@@ -1,0 +1,51 @@
+.base{
+  background-color: rgb(255, 234, 209);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container{
+  width: 20vw;
+  height: 60vh;
+  background-color: rgb(160, 105, 211);
+  border-radius: 8px;
+  /* padding: 40vw 40vw; */
+  display: flex;
+  flex-flow: column;  /*세로열로바꾸기*/ 
+  align-items: start;   /*가로열 중앙맞춤*/
+
+
+
+}
+
+.result{
+  background-color: white;
+  width: 20vw;
+  height: 11vh;
+  border-radius: 8px;
+}
+
+.center{
+  /* background-color: black; */
+  width: 20vw;
+  height: 49vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.buttonholder{
+  background-color:  rgb(205, 173, 236);
+  width: 18vw;
+  height: 40vh;
+  border-radius: 8px;
+  
+
+
+}
+
